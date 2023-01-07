@@ -18,7 +18,7 @@ Or you can also turn it off by pasting this command into the terminal.
     Linux: shutdown -h +time
     Mac: sudo shutdown -h +time
 
-<strong>Download .exe/.exe Olarak indir</strong>
+<strong>.exe Olarak indir/Download .exe</strong>
 
     https://drive.google.com/file/d/1jBQxyZqtllmnRv5QEJRUVGf3LyTCmkw3/view?usp=sharing
 
