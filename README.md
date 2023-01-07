@@ -1,5 +1,5 @@
 # ShutdownPy
-TR
+<strong>TR</strong>
 <br>
 Girdiğiniz süre dolduğunda bilgisayarınızı otomatik olarak kapatan bir program.
 <br>
@@ -8,7 +8,7 @@ Veya bu komutu terminale yapıştırarak da kapatabilirsiniz.
     Windows: shutdown -s -t süre
     Linux: shutdown -h +süre
     Mac: sudo shutdown -h +süre
-EN
+<strong>EN</strong>
 <br>
 A program that automatically shuts down your computer when the time you enter has expired.
 <br>
@@ -18,6 +18,9 @@ Or you can also turn it off by pasting this command into the terminal.
     Linux: shutdown -h +time
     Mac: sudo shutdown -h +time
 
+<strong>Download .exe/.exe Olarak indir</strong>
+
+    https://drive.google.com/file/d/1jBQxyZqtllmnRv5QEJRUVGf3LyTCmkw3/view?usp=sharing
 
 <br><strong>Dark Theme/Light Theme</strong><br><br>
 ![dark](https://user-images.githubusercontent.com/84205690/211172393-dbd9c856-7612-42aa-9eec-a4c1a6cf9e04.png)
