@@ -17,3 +17,8 @@ Or you can also turn it off by pasting this command into the terminal.
     Windows: shutdown -s -t time
     Linux: shutdown -h +time
     Mac: sudo shutdown -h +time
+<strong>Dark Theme/Karanlık Tema</strong> <br> <hr width="400">
+![dark](https://user-images.githubusercontent.com/84205690/211172393-dbd9c856-7612-42aa-9eec-a4c1a6cf9e04.png)
+
+<strong>Light Theme/Açık Tema</strong> <br>
+![light](https://user-images.githubusercontent.com/84205690/211172396-945056a6-36df-4bdd-b1d9-be6c1324048e.png)
