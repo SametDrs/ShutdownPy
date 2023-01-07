@@ -21,4 +21,4 @@ Or you can also turn it off by pasting this command into the terminal.
 
 <br><strong>Dark Theme/Light Theme</strong><br><br>
 ![dark](https://user-images.githubusercontent.com/84205690/211172393-dbd9c856-7612-42aa-9eec-a4c1a6cf9e04.png)
-![light](https://user-images.githubusercontent.com/84205690/211172396-945056a6-36df-4bdd-b1d9-be6c1324048e.png)
+![light](https://user-images.githubusercontent.com/84205690/211172814-c77f5690-8d44-40c7-9d6f-b027f545aa21.png)
